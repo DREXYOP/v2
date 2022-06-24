@@ -1,5 +1,5 @@
 const discord = require("discord.js");
-
+//OTg0MDM4MTA1MTg1MTQ0ODMy.Gwh9qX.66CnfPj7BVHxjT3inmt-FPiB87_a-FbLQn63z0
 const fs = require("fs")
 const {Intents} = require('discord.js')
 const client = new discord.Client({
